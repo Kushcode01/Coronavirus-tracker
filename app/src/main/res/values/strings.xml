@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">assistanceapp</string>
+    <string name="due_to_the_recent_lockdown_situation_the_poor_strata_of_the_society_have_been_the_worst_hit_in_several_states_the_local_migrant_worker_and_the_daily_wage_earners_have_been_forced_to_leave_their_current_place_of_stay_which_has_caused_mass_exodus_of_population_from_cities_this_is_your_chance_to_help">Due to the recent lockdown situation, the poor strata of the society have been the worst hit. In several states the local migrant worker and the daily wage earners have been forced to leave their current place of stay, which has caused mass exodus of population from cities.This is your chance to HELP!</string>
+    <string name="i_am_a_new_user">I am a new user</string>
+    <string name="i_am_an_existing_user">I am an existing user</string>
+    <string name="please_enter_your_details_that_will_help_us_locate_you_to_nearest_community">Please enter your details</string>
+</resources>

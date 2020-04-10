@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1057890774502",
+    "firebase_url": "https://assistanceapp-fef6d.firebaseio.com",
+    "project_id": "assistanceapp-fef6d",
+    "storage_bucket": "assistanceapp-fef6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057890774502:android:d210cff56028a6b3bd3a27",
+        "android_client_info": {
+          "package_name": "com.example.assistanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057890774502-vrhm9ps8g4r7snu2nqgro9likut72r3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assistanceapp",
+            "certificate_hash": "d38d7752b51ee8b8a66689d7cf0d33ed4d54cce4"
+          }
+        },
+        {
+          "client_id": "1057890774502-0u2s1i83henik2qqvsk1jk2tv4kc8cp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASFhsh-fZ2y4zq-Vbws7ueAFG0qKNxX3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057890774502-0u2s1i83henik2qqvsk1jk2tv4kc8cp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
